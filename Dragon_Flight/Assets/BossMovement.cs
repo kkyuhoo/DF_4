@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class BossMovement : MonoBehaviour
 {
-    
+    // ?„ë˜ë¡?ê°€?¤ê? yì¶•ì´ 2.5ë³´ë‹¤ ?‘ì•„ì§€ë©?ë©ˆì¶˜??
     Rigidbody2D rb;
     public float speed = 10f;
 
